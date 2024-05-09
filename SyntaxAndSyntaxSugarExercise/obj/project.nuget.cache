@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Q0i9ZLXZmwteDjg7mV+Aaw+T7X0un7tldffJ/rLQBixqRQ2nim0F/0Oo5lDukNtK9NNpGJDOFjcIsi+VNgQJkg==",
+  "dgSpecHash": "J+9899DS0QhlgnsOQ6Dvj4Jt6WNpMHPdwrg0w7752bxlBu4gOvYPdWJX/hkSd1xrK0yLg3ocy7P4RcL8/ShERg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SyntaxAndSyntaxSugarExercise\\SyntaxAndSyntaxSugarExercise\\SyntaxAndSyntaxSugarExercise.csproj",
+  "projectFilePath": "C:\\Users\\kendrick_elifritz\\Documents\\TrueCoders\\Module2\\Syntax-and-Syntax-Sugar-Exercise\\SyntaxAndSyntaxSugarExercise\\SyntaxAndSyntaxSugarExercise.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dcsartifacts.dell.com/artifactory/api/nuget/csb-nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
